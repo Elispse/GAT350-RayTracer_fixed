@@ -17,8 +17,8 @@ int main(int args, char* argv[])
 {
 	const int width = 400;
 	const int height = 300;
-	const int samples = 5;
-	const int depth = 10;
+	const int samples = 20;
+	const int depth = 5;
 	std::cout << "Hello, World!";
 	seedRandom((unsigned int)time(nullptr));
 
